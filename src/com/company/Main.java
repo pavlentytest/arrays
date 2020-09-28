@@ -6,6 +6,7 @@ public class Main {
 
     public static void main(String[] args) {
 
+        // добавлен комментарий
 
         int[] a; // null
         int b[];
